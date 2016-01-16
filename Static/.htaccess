@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteRule ^([a-zA-Z0-9_]+).cps$ Save_Direct.php?Op=Save&ID=$1
+RewriteRule ^([a-zA-Z0-9_]+)_large.png$ Save_Direct.php?Op=LargePNG&ID=$1 [L]
+RewriteRule ^([a-zA-Z0-9_]+)_small.png$ Save_Direct.php?Op=SmallPNG&ID=$1 [L]
+RewriteRule ^([a-zA-Z0-9_]+)_large.pti$ Save_Direct.php?Op=LargePTI&ID=$1 [L]
+RewriteRule ^([a-zA-Z0-9_]+)_small.pti$ Save_Direct.php?Op=SmallPTI&ID=$1 [L]

@@ -1,0 +1,5 @@
+RewriteEngine on
+
+#JSON conversion to PHP
+RewriteRule ^(.*)\.json$ $1.php
+RewriteRule ^(.*)\.api$ $1.php

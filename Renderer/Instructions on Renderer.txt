@@ -1,0 +1,3 @@
+Use the included renderer file to replace the standard one in TPT's source code. The main difference is the file names. 
+These allow it to render a TPT file into the various formats and out them into the proper names. Also note when you co-
+ompile the renderer, you will want to use the --renderer flag. Other than that you cimply compile it like a TPT client
