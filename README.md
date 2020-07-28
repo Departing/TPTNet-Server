@@ -1,5 +1,5 @@
 # TPTNet-Server
-The official source for The Powder Toy Network Server. An open source version of The Powder Toy community server (http://ThePowderToy.Net/).
+The official source for The Powder Toy Network Server. An open source version of (now defunct) The Powder Toy community server (https://ThePowderToy.Net/).
 
 The source is under Affero GPL which means if you run a modified program on a server and let other users communicate with it there, your server must also allow them to download the source code corresponding to the modified version running there.
 
