@@ -4,7 +4,7 @@
 TPTNet-Server is an open source The Powder Toy server. TPTNet-Net is mainly
 scripted in PHP and intefaces with the renderer built into The Powder Toy.
 
-Copyright (C) 2015  Lockheedmartin (Github)
+Copyright (C) 2015  Departing (Github)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
